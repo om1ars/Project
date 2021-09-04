@@ -12,7 +12,7 @@ function ImageSection() {
             <div className="right-content">
                 <h4>I am <span>Omar</span></h4>
                 <p className="paragraph">
-                    Currently I am about to study Back-end after finishing Front-end Languages. My aim is to become a full-stack developer
+                    Currently. hello I am about to study Back-end after finishing Front-end Languages. My aim is to become a full-stack developer
                 </p>
                 <div className="about-info">
                     <div className="info-title">
